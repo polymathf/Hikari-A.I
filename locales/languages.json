@@ -1,0 +1,212 @@
+{
+  "start": {
+    "rus": "<b>👋 Привет! Выберите язык интерфейса.</b>",
+    "eng": "<b>👋 Hello! Choose your language.</b>",
+    "chi": "<b>👋 選擇語言</b>",
+    "ukr": "<b>👋 Привіт! Виберіть мову інтерфейсу.</b>",
+    "kaz": "<b>👋 Сәлем! Интерфейс тілін таңдаңыз.</b>"
+  },
+  "language_selected": {
+    "rus": "Язык установлен: Русский 🇷🇺",
+    "eng": "Language set: English 🇬🇧",
+    "chi": "語言已設置：中文 🇨🇳",
+    "ukr": "Мова встановлена: Українська 🇺🇦",
+    "kaz": "Тіл орнатылды: Қазақша 🇰🇿"
+  },
+  "welcome": {
+    "rus": "🤖 Я — <b>Hikari A.I.</b>\nУмный, стильный Развлекательный Бот, который умеет:\n• Делать яркие дайджесты чатов \n• Анализировать атмосферу группы \n• Подстраиваться под стиль общения \n\nЯ каждые 24 часа выкладываю дайджест, изучая 1000 последних сообщений чата!\n Добавь меня в группу — и я покажу, на что способен!",
+    "eng": "🤖 I am <b>Hikari A.I.</b>\nA smart, stylish, and entertaining bot that can:\n• Create vibrant chat digests \n• Analyze the group's atmosphere \n• Adapt to the communication style \n\nI post a digest every 24 hours, analyzing the last 1000 messages in the chat!\n Add me to a group — and I'll show you what I can do!",
+    "chi": "🤖 我是 <b>Hikari A.I.</b>\n一个智能、时尚且有趣的机器人，我能：\n• 制作精彩的聊天摘要 \n• 分析群组氛围 \n• 适应聊天风格 \n\n我会每24小时发布一次摘要，分析最近1000条消息！\n 把我加入群组——我会让你看看我的本事！",
+    "ukr": "🤖 Я — <b>Hikari A.I.</b>\nРозумний, стильний Розважальний Бот, який уміє:\n• Робити яскраві дайджести чатів \n• Аналізувати атмосферу групи \n• Підлаштовуватись під стиль спілкування \n\nЯ кожні 24 години викладаю дайджест, вивчаючи 1000 останніх повідомлень чату!\nДодай мене в групу — і я покажу, на що здатен!",
+    "kaz": "🤖 Мен — <b>Hikari A.I.</b>\nАқылды, стильді Көңілді Ботымын, мен мынаны жасай аламын:\n• Чатардың жарқын дайджестерін жасау \n• Топ атмосферасын талдау \n• Сөйлесүріс стиліне бейімделу \n\nМен әр 24 сағат сайын чаттың соңғы 1000 хабарламасын зерттеп, дайджест шығарамын!\n Мені топқа қос — мен неге қабілетті екенімді көрсетемін!"
+  },
+  "kb_add_to_group": {
+    "rus": "➕ Добавить в группу",
+    "eng": "➕ Add to group",
+    "chi": "➕ 添加到群組",
+    "ukr": "➕ Додати до групи",
+    "kaz": "➕ Топқа қосу"
+  },
+  "group_me_welcome": {
+    "rus": "🎉 <a href=\"tg://user?id={user_id}\"><b>{first_name}</b></a>, Спасибо, что добавили меня в группу! \n\n🤖 Я — <b>Hikari A.I.</b>\nУмный, стильный Развлекательный Бот, который умеет:\n• Делать яркие дайджесты чатов \n• Анализировать атмосферу группы \n• Подстраиваться под стиль общения\n\nТеперь я каждые 24 часа выкладываю дайджест, изучая 1000 последних сообщений чата!",
+    "eng": "🎉 <a href=\"tg://user?id={user_id}\"><b>{first_name}</b></a>, thank you for adding me to the group! \n\n🤖 I am <b>Hikari A.I.</b>\nA smart, stylish, and entertaining bot that can:\n• Create vibrant chat digests \n• Analyze the group's atmosphere \n• Adapt to the communication style\n\nNow, I post a digest every 24 hours, analyzing the last 1000 messages in the chat!",
+    "chi": "🎉 <a href=\"tg://user?id={user_id}\"><b>{first_name}</b></a>，感谢您将我添加到群组中！\n\n🤖 我是 <b>Hikari A.I.</b>\n一个智能、时尚且有趣的机器人，我能：\n• 制作精彩的聊天摘要 \n• 分析群组氛围 \n• 适应聊天风格\n\n现在，我会每24小时发布一次摘要，分析最近1000条消息！",
+    "ukr": "🎉 <a href=\"tg://user?id={user_id}\"><b>{first_name}</b></a>, Дякую, що додали мене до групи! \n\n🤖 Я — <b>Hikari A.I.</b>\nРозумний, стильний Розважальний Бот, який уміє:\n• Робити яскраві дайджести чатів \n• Аналізувати атмосферу групи \n• Підлаштовуватись під стиль спілкування\n\nТепер я кожні 24 години викладатиму дайджест, вивчаючи 1000 останніх повідомлень чату!",
+    "kaz": "🎉 <a href=\"tg://user?id={user_id}\"><b>{first_name}</b></a>, мені топқа қосқаныңызға рахмет! \n\n🤖 Мен — <b>Hikari A.I.</b>\nАқылды, стильді Көңілді Ботымын, мен мынаны жасай аламын:\n• Чатардың жарқын дайджестерін жасау \n• Топ атмосферасын талдау \n• Сөйлесүріс стиліне бейімделу\n\nЕнді мен әр 24 сағат сайын чаттың соңғы 1000 хабарламасын зерттеп, дайджест шығарамын!"
+  },
+  "admin_panel": {
+    "eng": "🛠 Welcome to the admin panel.",
+    "rus": "🛠 Добро пожаловать в админ-панель.",
+    "chi": "🛠 歡迎進入管理員面板。",
+    "ukr": "🛠 Ласкаво просимо до адмін-панелі.",
+    "kaz": "🛠 Админ-панельге қош келдіңіз."
+  },
+  "admin_stats": {
+    "eng": "👤 Users: {users}\n👥 Active groups: {active_groups}\n🔕 Inactive groups: {inactive_groups}\n📊 Total groups: {total_groups}",
+    "rus": "👤 Пользователей: {users}\n👥 Активных групп: {active_groups}\n🔕 Неактивных групп: {inactive_groups}\n📊 Всего групп: {total_groups}",
+    "chi": "👤 用戶: {users}\n👥 活躍群組: {active_groups}\n🔕 非活躍群組: {inactive_groups}\n📊 總群組數: {total_groups}",
+    "ukr": "👤 Користувачів: {users}\n👥 Активних груп: {active_groups}\n🔕 Неактивних груп: {inactive_groups}\n📊 Всього груп: {total_groups}",
+    "kaz": "👤 Пайдаланушылар: {users}\n👥 Белсенді топтар: {active_groups}\n🔕 Белсенді емес топтар: {inactive_groups}\n📊 Барлығы топтар: {total_groups}"
+  },
+  "digest_error": {
+    "rus": "<b>❌ Попробуйте позже.</b>",
+    "eng": "<b>❌ Please try again later.</b>",
+    "chi": "<b>❌ 请稍后再试。</b>",
+    "ukr": "<b>❌ Спробуйте пізніше.</b>",
+    "kaz": "<b>❌ Кейінірек қайталап көріңіз.</b>"
+  },
+  "admin_broadcast_button": {
+    "eng": "📢 Broadcast",
+    "rus": "📢 Рассылка",
+    "chi": "📢 廣播",
+    "ukr": "📢 Розсилка",
+    "kaz": "📢 Жіберу"
+  },
+  "broadcast_choose_target": {
+    "eng": "Select the audience for broadcast:",
+    "rus": "Выберите получателей рассылки:",
+    "chi": "選擇廣播目標：",
+    "ukr": "Виберіть одержувачів розсилки:",
+    "kaz": "Жіберу үшін алушыларды таңдаңыз:"
+  },
+  "broadcast_users": {
+    "eng": "👤 Users",
+    "rus": "👤 Личка",
+    "chi": "👤 私人",
+    "ukr": "👤 Особисті повідомлення",
+    "kaz": "👤 Жеке хабарламалар"
+  },
+  "broadcast_groups": {
+    "eng": "👥 Groups",
+    "rus": "👥 Группы",
+    "chi": "👥 群組",
+    "ukr": "👥 Групи",
+    "kaz": "👥 Топтар"
+  },
+  "cancel": {
+    "eng": "❌ Cancel",
+    "rus": "❌ Отмена",
+    "chi": "❌ 取消",
+    "ukr": "❌ Скасувати",
+    "kaz": "❌ Болдырмау"
+  },
+  "broadcast_ask_content": {
+    "rus": "✉️ Пожалуйста, отправьте сообщение, которое вы хотите разослать пользователям.",
+    "eng": "✉️ Please send the message you want to broadcast to users.",
+    "chi": "✉️ 請發送您要發送給用戶的消息。",
+    "ukr": "✉️ Будь ласка, надішліть повідомлення, яке ви хочете розіслати користувачам.",
+    "kaz": "✉️ Пайдаланушыларға жібергіңіз келетін хабарламаны жіберіңіз."
+  },
+  "confirm": {
+    "rus": "✅ Подтвердить",
+    "eng": "✅ Confirm",
+    "chi": "✅ 確認",
+    "ukr": "✅ Підтвердити",
+    "kaz": "✅ Растау"
+  },
+  "broadcast_done": {
+    "rus": "📬 Рассылка завершена.\n✅ Успешно: {success}\n❌ Ошибок: {failed}",
+    "eng": "📬 Broadcast finished.\n✅ Sent: {success}\n❌ Failed: {failed}",
+    "chi": "📬 群發完成。\n✅ 成功: {success}\n❌ 失敗: {failed}",
+    "ukr": "📬 Розсилка завершена.\n✅ Успішно: {success}\n❌ Помилок: {failed}",
+    "kaz": "📬 Жіберу аяқталды.\n✅ Сәтті: {success}\n❌ Қате: {failed}"
+  },
+  "not_enough_messages": {
+    "rus": "<b>❌ Недостаточно сообщений для дайджеста!\nСобрано: {count}/100\nНужно еще: {needed}</b>",
+    "eng": "<b>❌ Not enough messages for digest!\nCollected: {count}/100\nStill need: {needed}</b>",
+    "chi": "<b>❌ 群聊消息不足以生成摘要！\n已收集: {count}/100\n還需要: {needed}</b>",
+    "ukr": "<b>❌ Недостатньо повідомлень для дайджесту!\nЗібрано: {count}/100\nПотрібно ще: {needed}</b>",
+    "kaz": "<b>❌ Дайджест үшін хабарламалар жеткіліксіз!\nЖиналды: {count}/100\nТағы қажет: {needed}</b>"
+  },
+  "digest_generating": {
+    "rus": "<b>🔄 Генерирую дайджест...</b>",
+    "eng": "<b>🔄 Generating digest...</b>",
+    "chi": "<b>🔄 正在生成摘要...</b>",
+    "ukr": "<b>🔄 Генерую дайджест...</b>",
+    "kaz": "<b>🔄 Дайджест жасалуда...</b>"
+  },
+  "digest_cooldown": {
+    "rus": "<b>⏳ Следующий дайджест будет доступен через {hours}ч {minutes}м</b>",
+    "eng": "<b>⏳ Next digest will be available in {hours}h {minutes}m</b>",
+    "chi": "<b>⏳ 下一次摘要将在{hours}小时{minutes}分钟后可用</b>",
+    "ukr": "<b>⏳ Наступний дайджест буде доступний через {hours}г {minutes}хв</b>",
+    "kaz": "<b>⏳ Келесі дайджест {hours}сағ {minutes}мин кейін қол жетімді болады</b>"
+  },
+  "gender_current": {
+    "rus": "<b>Ваш текущий пол: {gender}</b>",
+    "eng": "<b>Your current gender: {gender}</b>",
+    "chi": "<b>你目前的性别是：{gender}</b>",
+    "ukr": "<b>Ваш поточний гендер: {gender}</b>",
+    "kaz": "<b>Сіздің жынысыңыз: {gender}</b>"
+  },
+  "gender_auto": {
+    "rus": "Авто",
+    "eng": "Auto",
+    "chi": "自動",
+    "ukr": "Авто",
+    "kaz": "Авто"
+  },
+  "gender_male": {
+    "rus": "Мужской",
+    "eng": "Male",
+    "chi": "男",
+    "ukr": "Чоловічий",
+    "kaz": "Ер"
+  },
+  "gender_female": {
+    "rus": "Женский",
+    "eng": "Female",
+    "chi": "女",
+    "ukr": "Жіночий",
+    "kaz": "Әйел"
+  },
+  "lang_change_prompt": {
+    "eng": "<b>Please select a group language:</b>",
+    "rus": "<b>Пожалуйста, выберите язык группы:</b>",
+    "chi": "<b>請選擇群組語言：</b>",
+    "ukr": "<b>Будь ласка, виберіть мову групи:</b>",
+    "kaz": "<b>Топ тілін таңдаңыз:</b>"
+  },
+  "lang_change_success": {
+    "eng": "<b>✅ Group language has been changed to English.</b>",
+    "rus": "<b>✅ Язык группы изменен на Русский.</b>",
+    "chi": "<b>✅ 群組語言已更改為中文。</b>",
+    "ukr": "<b>✅ Мову групи змінено на Українську.</b>",
+    "kaz": "<b>✅ Топ тілі Қазақша тіліне өзгертілді.</b>"
+  },
+  "select_style": {
+    "eng": "<b>Please select a digest style:</b>",
+    "rus": "<b>Пожалуйста, выберите стиль обзора:</b>",
+    "chi": "<b>請選擇概覽風格：</b>",
+    "ukr": "<b>Будь ласка, виберіть стиль огляду:</b>",
+    "kaz": "<b>Дайджест стилін таңдаңыз:</b>"
+  },
+  "style_changed": {
+    "eng": "✅ Digest style has been changed to: {style}",
+    "rus": "✅ Стиль обзора изменён на: {style}",
+    "chi": "✅ 概览风格已更改为: {style}",
+    "ukr": "✅ Стиль огляду змінено на: {style}",
+    "kaz": "✅ Дайджест стилі өзгертілді: {style}"
+  },
+  "style_default": {
+    "eng": "Auto",
+    "rus": "Авто",
+    "chi": "自动的",
+    "ukr": "Авто",
+    "kaz": "Авто"
+  },
+  "style_cute": {
+    "eng": "Cute",
+    "rus": "Милый",
+    "chi": "可爱",
+    "ukr": "Милий",
+    "kaz": "Сүйкімді"
+  },
+  "style_cheeky": {
+    "eng": "Cheeky",
+    "rus": "Наглый",
+    "chi": "厚脸皮",
+    "ukr": "Нахабний",
+    "kaz": "Бетперде"
+  }
+}
